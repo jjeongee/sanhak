@@ -5,5 +5,4 @@ type RoadmapSkill = {
     parent?: number[];
     child?: number[];
     position: [number, number];
-    tag:number;
 };
